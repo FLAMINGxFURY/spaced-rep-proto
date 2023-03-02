@@ -8,9 +8,9 @@
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>Usability &ndash; The system must be easy for students to interface with AND for instructors to add dynamic and adjustable content to.</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>Responsiveness &ndash; The system must be able to be viewed and used &ndash; with no loss of functionality &ndash; on phones, tablets, laptops, and home computers.</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong>Scope:</strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
-<p><strong><span style='font-size:15px;line-height:107%;font-family:"Calibri",sans-serif;'><br>&nbsp;</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong>&nbsp;</strong></p>
+
+![image001](https://user-images.githubusercontent.com/25275552/222572150-ee182061-aa99-44d5-8de9-724f59555518.png)
+
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong>User Roles:</strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>Administrator &ndash; Technology staff or instructor managing the system. Can view, add, edit, and delete all content in the system. Can add or remove any user from the system.</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>Instructor &ndash; Any instructor using the system as a learning tool. Can view, add, edit, and delete any content in their class. Can add or remove any user from their class.</p>
