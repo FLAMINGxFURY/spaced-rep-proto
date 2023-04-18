@@ -1,0 +1,62 @@
+.card-body {
+    padding: 10vh 5vh;
+    text-align: center;
+}
+
+.card-front {
+    background-color: rgb(237, 155, 210);
+    height: 80vh; 
+
+    /* border */
+    border: 2px solid rgb(237, 155, 210);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), /* soft drop shadow */
+                0 0 0 1px rgba(237, 155, 210, 0.3),
+                0 0 0 2px rgba(237, 155, 210, 0.4),
+                0 0 0 3px rgba(237, 155, 210, 0.5);
+}
+
+.card-back {
+    display: none;
+    background-color: rgb(184, 155, 237);
+    height: 80vh; 
+
+    /* border */
+    border: 2px solid rgb(184, 155, 237);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), /* soft drop shadow */
+                0 0 0 1px rgba(184, 155, 237, 0.3),
+                0 0 0 2px rgba(184, 155, 237, 0.4),
+                0 0 0 3px rgba(184, 155, 237, 0.5);
+}
+
+.half-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.question {
+    border-right: 2pt dotted palegoldenrod;
+}
+
+.answer {
+    display: flex;
+    flex-direction: column;
+}
+
+.answer-content {
+    flex-grow: 1;
+    /* add any other styles you need for the answer content */
+}
+
+.submit-button {
+    /* add any styles you need for the submit button */
+}
+
+@media screen and (max-width: 768px) {
+    .question {
+        border-right: none;
+        border-bottom: 2pt dotted palegoldenrod;
+    }
+}
