@@ -349,6 +349,11 @@
         </tr>
     </tbody>
 </table>
+<h3>Point System/Leaderboard</h3>
+<ul>
+    <li>Leaderboard is fun idea</li>
+    <li>Points for "graded" amount of questions, extra for a second set</li>
+</ul>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br>
